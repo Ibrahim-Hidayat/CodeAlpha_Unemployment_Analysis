@@ -19,10 +19,13 @@ participation rate, and area. File: `Unemployment in India.csv`.
 - Unemployment held steady at about 9-10% from May 2019 to February 2020.
 - After the national lockdown began on 25 March 2020, it more than doubled
   to roughly 24-25% in April and May 2020, then fell to about 12% in June.
-- The rise differed sharply by region. Puducherry, Tamil Nadu, Jharkhand and
-  Bihar saw the largest increases.
-- Urban areas were hit harder than rural areas at the peak (about 25-28%
-  against about 21-22%), though the two nearly converged by June.
+- The rise differed sharply by region (Covid period defined as March to June
+  2020 against May 2019 to February 2020). Puducherry, Tamil Nadu, Jharkhand
+  and Bihar saw the largest increases.
+- Urban unemployment was higher than rural throughout (roughly 10-12% against
+  7-10% before the lockdown). The gap widened at the peak, with urban reaching
+  about 28% against about 21-22% for rural in May 2020, then closed again to
+  about 12% for both by June.
 - The data covers only 14 months, so true seasonal patterns cannot be
   established. A longer time series would be needed.
 
@@ -30,6 +33,8 @@ participation rate, and area. File: `Unemployment in India.csv`.
 ![Unemployment trend](unemployment_trend.png)
 
 ![Covid impact by region](covid_impact_by_region.png)
+
+![Urban vs rural unemployment](urban_vs_rural.png)
 
 ## Policy implications
 - Target relief at the hardest-hit regions rather than spreading it evenly.
