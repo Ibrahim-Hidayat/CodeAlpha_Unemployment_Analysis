@@ -30,7 +30,7 @@ participation rate, and area. File: `Unemployment in India.csv`.
   established. A longer time series would be needed.
 
 ## Charts
-![Unemployment trend](unemployment_trend.png)
+![Unemployment trend](unemployment_trend%20%281%29.png)
 
 ![Covid impact by region](covid_impact_by_region.png)
 
